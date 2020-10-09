@@ -1,0 +1,12 @@
+{
+  "name": "tinybundler",
+  "version": "0.0.1",
+  "description": "This is a simple bundler like webpack ",
+  "main": "src/index.js",
+  "author": "Vikas Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "8.0.4",
+    "acorn-walk": "^8.0.0"
+  }
+}
